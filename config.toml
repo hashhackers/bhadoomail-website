@@ -1,0 +1,63 @@
+baseURL = "https://bhadoomail.com/"
+languageCode = "en-us"
+title = "Bhadoo Mail - Disposable Temporary E-Mail Address"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "About"
+        url     = "#about"
+        weight  = 1
+    [[menu.nav]]
+        name    = "Mails"
+        url     = "https://mail.bhadoomail.com"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "https://www.hashhackers.com"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Contact"
+        url     = "https://goo.gl/forms/3LLrlexahXgUYuFT2"
+        weight  = 4
+
+# Site Params
+[params]
+    home = "Home"
+    logo = "https://cdn.bhadoomail.com/logo.png"
+    dateFormat = "6 January 2006"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "Bhadoo Disposable Temporary E-Mail Address"
+        description = "With the power of Google IMAP, Bhadoo Mail fetchs mails directly from GMAIL Servers, open source and free to use for everyone."
+        btn     = true
+        btnText = "Start"
+        btnURL  = "https://mail.bhadoomail.com/"
+        [[params.banner.flipText]]
+            title   = "Super Fast"
+        [[params.banner.flipText]]
+            title   = "Gmail Powered"
+        [[params.banner.flipText]]
+            title   = "Open Source"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT Bhadoo Mail"
+        content = "A self-hosted disposable mailbox service by <a href='https://github.com/synox/disposable-mailbox' target='_blank'>Aravindo Wingeier</a>. <br> <br> Features:<br>Anonymous usage, generate random email addresses.<br>New Mail notification.<br>Download and delete your emails.<br>Display emails as text or html with sanitization filter.<br>Display emails based on one catch-all imap mailbox.<br>Only requires PHP >=7.2 and imap extension."
+        image   = "images/about.jpg"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "SO WHAT YOU THINK ?"
+        content = "If you wish to provide your expertise or want to improve our services, please help us improve the project."
+        btnText = "Bugs on Github"
+        btnURL  = "https://github.com/synox/disposable-mailbox/issues"

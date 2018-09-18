@@ -9,7 +9,7 @@
                     <div class="portfolio-meta">
                         <span>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</span>|
                         <span> Tags:
-                            {{ delimit .Params.tags ", " }}
+                            {{ .Params.tags ", " }}
                         </span>
                     </div>
                 </div>

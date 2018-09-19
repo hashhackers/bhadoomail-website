@@ -1,6 +1,12 @@
 # Redirect domain aliases to primary domain
 https://mails.gq/* https://bhadoomail.com/:splat 301!
 https://www.mails.gq/* https://bhadoomail.com/:splat 301!
+https://dotmail.gq/* https://bhadoomail.com/:splat 301!
+https://dotmail.cf/* https://bhadoomail.com/:splat 301!
+https://dotmail.ga/* https://bhadoomail.com/:splat 301!
+https://www.dotmail.gq/* https://bhadoomail.com/:splat 301!
+https://www.dotmail.cf/* https://bhadoomail.com/:splat 301!
+https://www.dotmail.ga/* https://bhadoomail.com/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
 https://bhadoomail.netlify.com/* https://bhadoomail.com/:splat 301!

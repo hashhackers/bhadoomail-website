@@ -12,6 +12,7 @@ https://mobile.bhadoomail.com/* https://bhadoomail.com/:splat 301!
 https://alpha.bhadoomail.com/* https://bhadoomail.com/:splat 301!
 https://beta.bhadoomail.com/* https://bhadoomail.com/:splat 301!
 https://personal.bhadoomail.com/* https://bhadoomail.com/:splat 301!
+https://bhadoomail-com.a.secure.ssl.parveenbhadoo.com/* https://bhadoomail.com/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
 https://bhadoomail.netlify.com/* https://bhadoomail.com/:splat 301!

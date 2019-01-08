@@ -22,13 +22,13 @@ theme = "timer-hugo"
         weight  = 3
     [[menu.nav]]
         name    = "Contact"
-        url     = "https://goo.gl/forms/3LLrlexahXgUYuFT2"
+        url     = "https://support@hashhackers.com"
         weight  = 4
 
 # Site Params
 [params]
     home = "Home"
-    logo = "https://cdn.bhadoomail.com/logo.png"
+    logo = "https://bhadoomail.com/mail/logo.png"
     dateFormat = "6 January 2006"
 
     # Banner Section

@@ -28,7 +28,7 @@ theme = "timer-hugo"
 # Site Params
 [params]
     home = "Home"
-    logo = "https://bhadoomail.com/mail/logo.png"
+    logo = "/mail/logo.png"
     dateFormat = "6 January 2006"
 
     # Banner Section

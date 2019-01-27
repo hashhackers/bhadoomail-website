@@ -1,0 +1,22 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "Bhadoo Mail",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://mail.bhadoomail.com/?utm_source=webapp",
+    "short_name": "BhadooMail,
+    "theme_color": "transparent",
+    "description": "Spam Free Emails",
+    "orientation": "any",
+    "background_color": "#63A3F2",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+	{
+	    "src": "//www.hashhackers.com/images/icon-196x196.png",
+	    "sizes": "196x196",
+	    "type": "image/png"
+	}
+    ]
+}

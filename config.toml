@@ -14,7 +14,7 @@ theme = "timer-hugo"
         weight  = 1
     [[menu.nav]]
         name    = "Mails"
-        url     = "https://mail.bhadoomail.com"
+        url     = "https://inbox.bhadoomail.com"
         weight  = 2
     [[menu.nav]]
         name    = "Blog"
@@ -39,7 +39,7 @@ theme = "timer-hugo"
         description = "With the power of Google IMAP, Bhadoo Mail fetchs mails directly from GMAIL Servers, open source and free to use for everyone."
         btn     = true
         btnText = "Start"
-        btnURL  = "https://mail.bhadoomail.com/"
+        btnURL  = "https://inbox.bhadoomail.com/"
         [[params.banner.flipText]]
             title   = "Super Fast"
         [[params.banner.flipText]]
